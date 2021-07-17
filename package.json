@@ -6,7 +6,7 @@
   "homepage": "https://SerhiiKnysh.github.io/goit-js-hw-10-food",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-10-food/",
+  
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
